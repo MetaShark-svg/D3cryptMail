@@ -1,0 +1,15 @@
+MIT-STYLE EDUCATIONAL LICENSE
+
+Copyright (c) 2025 MetaShark-svg
+
+Permission is hereby granted to any individual obtaining a copy of this software (D3cryptMail), to use it strictly for **educational and research purposes**, subject to the following conditions:
+
+1. The software must not be used for illegal, unethical, or unauthorized activities.
+2. Redistribution, resale, or public reuploading of this tool or its obfuscated components is strictly prohibited.
+3. The author provides this software "as is", without warranty of any kind, and assumes no liability for misuse.
+
+By using this software, you agree to these terms and conditions.
+
+For premium access, contact:  
+Telegram: @metashark_svg  
+ETH: 0xb58937eB4D98E79e66522D32DDc6a4004ed74Ae9
