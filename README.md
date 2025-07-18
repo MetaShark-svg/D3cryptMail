@@ -26,3 +26,8 @@ This project is educational. Redistribution without permission is prohibited.
 ---
 
 © 2025 MetaShark-svg
+---
+
+## 🔍 Keywords
+
+D3cryptMail, OSINT, Email Forensics, Python GUI, Cybersecurity Tool, Metadata Analyzer, Python Email Scraper, Hacked Email Parser, obfuscated code, @metashark_svg
