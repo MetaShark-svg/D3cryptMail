@@ -30,34 +30,36 @@ To unlock the full premium source:
 | `README.md`              | Project instructions & usage guide          |
 | `LICENSE.txt`            | License info                                |
 
----
-
 > 🧷 To decrypt `.gpg` files:
 ```bash
 gpg real_d3cryptmail.py.gpg
 
 ---
 
-##🤖 Telegram Bot Commands
+## 🤖 Telegram Bot Commands
 
-Interact via @D3cryptMailBot:
-Command	Function
-/start	Activate the bot
-/buy	Get payment details
-/access	Verify payment & get encrypted ZIP
-/help	Show usage instructions
+Interact via [@D3cryptMailBot](https://t.me/D3cryptMailBot):
+
+| Command   | Function                                  |
+|-----------|-------------------------------------------|
+| `/start`  | Activate the bot                          |
+| `/buy`    | Get payment details                       |
+| `/access` | Verify payment & get encrypted ZIP        |
+| `/help`   | Show usage instructions                   |
 
 ---
 
-##🛡️ Licensing & Usage
+## 🛡️ Licensing & Usage
 
-This tool is intended strictly for educational, research, or forensic purposes.
+This tool is intended strictly for **educational**, **research**, or **forensic** purposes.  
 ⚠️ Redistribution, cracking, or malicious use is strictly prohibited.
 
 ---
 
-##📌 Tags
+## 📌 Tags
 
-D3cryptMail • OSINT • Email Forensics • Python GUI • Cybersecurity Tool • Metadata Analyzer • Telegram Bot • Premium Obfuscation
+`D3cryptMail` • `OSINT` • `Email Forensics` • `Python GUI` • `Cybersecurity Tool` • `Metadata Analyzer` • `Telegram Bot` • `Premium Obfuscation`
 
-© 2025 MetaShark-svg — All rights reserved.
+---
+
+© 2025 **MetaShark-svg** — All rights reserved.
