@@ -30,13 +30,15 @@ To unlock the full premium source:
 | `README.md`              | Project instructions & usage guide          |
 | `LICENSE.txt`            | License info                                |
 
+---
+
 > 🧷 To decrypt `.gpg` files:
 ```bash
 gpg real_d3cryptmail.py.gpg
 
 ---
 
-🤖 Telegram Bot Commands
+##🤖 Telegram Bot Commands
 
 Interact via @D3cryptMailBot:
 Command	Function
@@ -47,11 +49,14 @@ Command	Function
 
 ---
 
-🛡️ Licensing & Usage
+##🛡️ Licensing & Usage
 
 This tool is intended strictly for educational, research, or forensic purposes.
 ⚠️ Redistribution, cracking, or malicious use is strictly prohibited.
-📌 Tags
+
+---
+
+##📌 Tags
 
 D3cryptMail • OSINT • Email Forensics • Python GUI • Cybersecurity Tool • Metadata Analyzer • Telegram Bot • Premium Obfuscation
 
