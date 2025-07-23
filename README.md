@@ -34,6 +34,8 @@ To unlock the full premium source:
 ```bash
 gpg real_d3cryptmail.py.gpg
 
+---
+
 🤖 Telegram Bot Commands
 
 Interact via @D3cryptMailBot:
@@ -42,6 +44,8 @@ Command	Function
 /buy	Get payment details
 /access	Verify payment & get encrypted ZIP
 /help	Show usage instructions
+
+---
 
 🛡️ Licensing & Usage
 
