@@ -11,6 +11,14 @@
 
 ---
 
+### ⚡ D3cyptMail v1.0 – Terminal Preview
+
+> Below is a preview of D3cryptMail in action inside a Linux terminal:
+
+![D3cryptMail Terminal](https://github.com/MetaShark-svg/D3cryptMail/blob/main/D3cryptMail_screenshot.png?raw=true)
+
+---
+
 ## 💸 Access the Full Tool – **0.19 ETH**
 
 To unlock the full premium source:
